@@ -21,7 +21,7 @@
         "files": [
           {
             "name": "red-green-button.tsx",
-            "content": "https://raw.githubusercontent.com/yourusername/your-repo/main/components/ui/red-green-button.tsx"
+            "content": "https://raw.githubusercontent.com/bhaveshkys/custom-components-shadcn/blob/master/src/components/ui/red-green-button.tsx"
           }
         ]
       }
