@@ -20,7 +20,7 @@
         "dependencies": ["@radix-ui/react-slot"],
         "files": [
           {
-            "name": "red-green-button",
+            "name": "red-green-button.tsx",
             "content": "https://raw.githubusercontent.com/bhaveshkys/custom-components-shadcn/master/src/components/ui/red-green-button.tsx"
           }
         ]
